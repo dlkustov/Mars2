@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.6.0_45"/>
+	<classpathentry kind="lib" path="C:/Users/Dmitry/Google/job_eclipse/eclipse_project/theater/lib/commons-beanutils-1.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dmitry/Google/job_eclipse/eclipse_project/theater/lib/commons-collections-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dmitry/Google/job_eclipse/eclipse_project/theater/lib/commons-digester-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dmitry/Google/job_eclipse/eclipse_project/theater/lib/commons-javaflow-20060411.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dmitry/Google/job_eclipse/eclipse_project/theater/lib/commons-logging-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dmitry/Google/job_eclipse/eclipse_project/theater/lib/jasperreports-3.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dmitry/Google/job_eclipse/eclipse_project/theater/lib/jcalendar-1.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dmitry/Google/job_eclipse/eclipse_project/theater/lib/jdt-compiler-3.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dmitry/Google/job_eclipse/eclipse_project/theater/lib/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dmitry/Google/job_eclipse/eclipse_project/theater/lib/looks-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dmitry/Google/job_eclipse/eclipse_project/theater/lib/mysql-connector-java-5.1.7-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dmitry/Google/job_eclipse/eclipse_project/theater/lib/snmp4j-1.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dmitry/Google/job_eclipse/eclipse_project/theater/lib/snmp4j-1.11.1-javadoc.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
